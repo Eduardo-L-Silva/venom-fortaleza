@@ -1,4 +1,3 @@
-
 <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
@@ -6,16 +5,16 @@
   
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="./img/caroseul0.png" class="d-block w-100" alt="...">
+      <img src="./img/slide5.jpg" class="d-block w-100" alt="..." style = "height: 110vh; ">
     </div>
     <div class="carousel-item">
-      <img src="./img/caroseul1.jpg" class="d-block w-100" alt="...">
+      <img src="./img/slide5.jpg" class="d-block w-100" alt="..." style = "height: 110vh; ">
     </div>
     <div class="carousel-item">
-      <img src="./img/caroseul2.jpg" class="d-block w-100" alt="...">
+      <img src="./img/slide5.jpg" class="d-block w-100" alt="..." style = "height: 110vh; ">
     </div>
     <div class="carousel-item">
-      <img src="./img/caroseul3.jpg" class="d-block w-100" alt="...">  
+      <img src="./img/slide5.jpg" class="d-block w-100" alt="..." style = "height: 110vh; ">  
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
