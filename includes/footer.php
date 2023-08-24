@@ -83,20 +83,11 @@ input.form-control {
             <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pesq_cliente.php">Exibir</a>
-          </li>
-          <li class="nav-item">
                     <a class="nav-link"  data-bs-toggle="modal" data-bs-target="#exampleModal6"  aria-hidden="true">Agendamento</a>
                 </li>
           <li class="nav-item">
-            <a class="nav-link"  data-bs-toggle="modal" data-bs-target="#exampleModal2"  aria-hidden="true">Ocorrência</a>
-          </li>
-          <li class="nav-item">
                     <a class="nav-link"  data-bs-toggle="modal" data-bs-target="#exampleModal5"  aria-hidden="true">FAQ</a>
                 </li>
-          <li class="nav-item">
-            <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"  style="background-color: #38AAF2;border: #38AAF2" class="btn btn-brand">Login</a>
-          </li>
         </ul>
         
       </div>
@@ -115,7 +106,7 @@ input.form-control {
                 <div class="cta-text">
                   <h4>Vá para:</h4>
                   <span class="text-light">
-                    R.  Júlio Siqueira, 390,  -  Dionísio Torres
+                    NULL
                   </span>
                 </div>
               </div>
@@ -129,9 +120,9 @@ input.form-control {
                 <div class="cta-text">
                   <h4>Ligue para:</h4>
                   <span class="text-light">
-                    (85) 9 98876-4948
+                    (85) 9 9141-2235
                     <br>
-                    (85) 9 99756-4948
+                    (85) 9 8752-1743
                   </span>
                 </div>
               </div>
@@ -145,7 +136,7 @@ input.form-control {
                 <div class="cta-text">
                   <h4>Envie-nos um e-mail:</h4>
                   <span class="text-light">
-                    suportsinfo@gmail.com
+                    venomfortaleza@gmail.com
                   </span>
                 </div>
               </div>
@@ -159,15 +150,15 @@ input.form-control {
       <!--Grid column-->
       <div class="col-lg-5 col-md-6 mb-4 mb-md-0">
         <div class="tra">
-          <h3 style="color:#38AAF2;text-decoration: underline;text-decoration-color: #38AAF2;text-underline-offset: 20px;">Dionísio Torres</h3>
+          <h3 style="color:#38AAF2;text-decoration: underline;text-decoration-color: #38AAF2;text-underline-offset: 20px;">Nossas Redes</h3>
         </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3981.2789059068086!2d-38.51217718515231!3d-3.74932084432935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c748ea35637fef%3A0x7eb2e63b55439b21!2sEEEP%20Professor%20Joaquim%20Ant%C3%B4nio%20Albano!5e0!3m2!1spt-BR!2sbr!4v1675872324277!5m2!1spt-BR!2sbr" width="420" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"" width="150" height="250" style="border-radius:10px;" allowfullscreen="" class="card-img-top" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <img src="./img/banner.jpg" alt="" style="width: 420px; height: 320;">
         <div class="footer-social-icon" style="text-align:center;">
           <a class="ri-whatsapp-line icon" id="zap" href="https://wa.me/qr/D5Z5M43METFVG1" ></a>
           <a class="ri-instagram-line icon" id="insta" href="https://instagram.com/espacomixparangaba"></a>
           <a href="https://maps.app.goo.gl/dpZ9RM35KbdjUBes9"> <iconify-icon icon="mdi:google-my-business" class="icon" style="color: white;"></iconify-icon></a>
         </div>
-      </div>
+      </div>  
       <!--Grid column-->
     </div>
     <!--Grid row-->
