@@ -21,14 +21,6 @@
                     </div>
                     <a target="_blank" class="whatswidget-link" href="https://www.adamante.com.br/code/whatsapp-site/" title="Feito no WhatsWidget" style="all:revert;"></a>
                 </div>
-                <div id="whatswidget-conversation-message-outer" class="whatswidget-conversation-message-outer" style="all:revert;">
-                    <span id="whatswidget-text-header-outer" class="whatswidget-text-header-outer" style="all:revert;">
-                    Suport's Info 
-                    </span>
-                    <br> 
-                    <div id="whatswidget-text-message-outer" class="whatswidget-text-message-outer" style="all:revert;">
-                        ORÇAMENTO POR WHATSAP
-                    </div>
                 </div>
                 <div class="whatswidget-button-wrapper" style="all:revert;">
                     <div class="whatswidget-button" id="whatswidget-button" style="all:revert;">
