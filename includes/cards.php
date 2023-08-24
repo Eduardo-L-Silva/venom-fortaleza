@@ -1,65 +1,51 @@
 <style>
-    #card{
-                    border-radius: 0%;
-                    text-align: center;
-                    border-left: none;
-                    border-top: none;
-                    border-right: none;
-                    border-bottom: 6px solid #38AAF2;
-            }#cardtext{
-                    color: #747474;
-                    margin-top:-10px;
-            }
+    #area-3{
+  width:100%;
+  height: 320px;
+  background-color: #064eab;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.conteudo-sobre-nos{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sobre-nos{
+  color: #fff;
+  width: 500px;
+  height: 290px;
+}
+.sobre-nos > h2{
+  padding: 0;
+  text-align: center;
+  font-size: 22px;
+}
+.sobre-nos > p{
+  text-align: justify;
+  font-size: 16.1px;
+}
+.img-sobre-nos{
+  margin-left: 100px;
+  border-radius: 15px;
+  height: 250px;
+  width: 500px;
+}
 </style>
-<section class="container">
-            <h1 style="text-align: center;" id="eventos">Possibilidades</h1>
-            <br>
-            <div class="row row-cols-1 row-cols-md-4 g-4">
-                </style>
-                <div class="col">
-                    <div class="card" id="card">
-                        <img src="img/faqnew.png" class="card-img-top" alt="...">
-                        <div class="card-body">
-                        <h5 class="card-title"><span data-bs-toggle="modal" data-bs-target="#exampleModal5"  style="background-color: #38AAF2;border: #38AAF2" class="btn btn-brand ms-lg-3">FAQ</span></h5>
-                            <p class="card-text" id="cardtext"></p>
-                        </div>
-                    </div>
-                </div>
+<div id="area-3">
+      <div class="conteudo-sobre-nos">
+        <div class="sobre-nos">
+                    <h2>Quem somos</h2>
+                    <p>A Oficina Up-Driver completou 49 anos de existência.
         
-                <div class="col">
-                    <div class="card" id="card">
-                        <img src="img/agendamentenew.png" class="card-img-top" alt="...">
-                        <div class="card-body">
-                        <h5 class="card-title"><span data-bs-toggle="modal" data-bs-target="#exampleModal6"  style="background-color: #38AAF2;border: #38AAF2" class="btn btn-brand ms-lg-3">Agendamento</span></h5>
-                             <p class="card-text" id="cardtext"></p>
-                        </div>
-                    </div>
-                </div>
+                  Desde 1973, trabalhamos com profissionais capacitados para formar uma equipe qualificada e responsável. Dessa forma, não só garantimos a máxima segurança do seu veículo como também os melhores serviços para ele.
         
-                <div class="col">
-                    <div class="card"  id="card">
-                        <img src="img/a.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title" ><span data-bs-toggle="modal" data-bs-target="#exampleModal"  style="background-color: #38AAF2;border: #38AAF2" class="btn btn-brand ms-lg-3">Acesso</span></h5>
-                            <p class="card-text" id="cardtext"></p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col">
-                    <div class="card" id="card">
-                        <img src="img/suportenew.png" class="card-img-top" alt="..." >
-                        <div class="card-body">
-                            <h5 class="card-title"><span data-bs-toggle="modal" data-bs-target="#exampleModal2"  style="background-color: #38AAF2;border: #38AAF2" class="btn btn-brand ms-lg-3">Suporte remote</span></h5>
-                            <p class="card-text" id="cardtext"></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.bundle.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
-<script src="js/app.js"></script>
+                  Constantemente, nossos colaboradores passam por treinamentos, participam de conferências, palestras, cursos de Ensino à Distância (EAD) ou presenciais, entre outras formas de desenvolvimento pessoal e profissional.</p>
+        </div>
+        <img src="./img/banner.jpg" class="img-sobre-nos">
+      </div>
+  </div>

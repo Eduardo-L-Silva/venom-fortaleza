@@ -74,8 +74,8 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-auto">
-                <p> <i class='bx bxs-envelope'></i> suportsinfo@gmail.com</p>
-                <p> <i class='bx bxs-phone-call'></i> (85) 9 1234.5678</p>
+                <p> <i class='bx bxs-envelope'></i> venomfortaleza@gmail.com</p>
+                <p> <i class='bx bxs-phone-call'></i> (85)9 9141-2235</p>
             </div>
             <div class="col-auto social-icons">
                 <a href="#"><i class='bx bxl-whatsapp'></i></a>
@@ -89,7 +89,7 @@
 <!-- Navbar 2 -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top" style="border-bottom: 0%;">
     <div class="container">
-        <a class="navbar-brand" href="index.php"><img src="./img/logo.png" alt="" srcset="" style="width: 90px;">Suport's <span class="dot"  style="color: #38AAF2;">Info</span></a>
+        <a class="navbar-brand" href="index.php"><img src="./img/logo.png" alt="" srcset="" style="width: 90px;">Venom <span class="dot"  style="color: #38AAF2;">Fortaleza</span></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -99,19 +99,12 @@
                     <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="pesq_cliente.php">Exibir</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link"  data-bs-toggle="modal" data-bs-target="#exampleModal6"  aria-hidden="true">Agendamento</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link"  data-bs-toggle="modal" data-bs-target="#exampleModal2"  aria-hidden="true">Ocorrência</a>
+                    <a class="nav-link" href="" aria-hidden="true">Agendamento</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link"  data-bs-toggle="modal" data-bs-target="#exampleModal5"  aria-hidden="true">FAQ</a>
                 </li>
             </ul>
-            <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal"  style="background-color: #38AAF2;border: #38AAF2" class="btn btn-brand ms-lg-3">Login</a>
         </div>
     </div>
 </nav>
