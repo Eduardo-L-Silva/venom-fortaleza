@@ -33,13 +33,13 @@
   margin-left: 100px;
   border-radius: 15px;
   height: 250px;
-  width: 500px;
+  width: 350px;
 }
 </style>
 <div id="area-3">
       <div class="conteudo-sobre-nos">
         <div class="sobre-nos">
-                    <h2>Quem somos</h2>
+                    <h2>Por que nos contratar? </h2>
                     <p>A Oficina Up-Driver completou 49 anos de existência.
         
                   Desde 1973, trabalhamos com profissionais capacitados para formar uma equipe qualificada e responsável. Dessa forma, não só garantimos a máxima segurança do seu veículo como também os melhores serviços para ele.
