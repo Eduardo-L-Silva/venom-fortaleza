@@ -99,6 +99,9 @@
                     <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="#area-3">Por que nos contratar?</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="" aria-hidden="true">Agendamento</a>
                 </li>
                 <li class="nav-item">
